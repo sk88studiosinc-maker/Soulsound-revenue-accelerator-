@@ -1,0 +1,8 @@
+{
+  "name": "SoulSound Revenue Accelerator",
+  "description": "A high-performance financial optimization dashboard designed to identify and collect micro-revenue opportunities across digital platforms. Powered by Gemini AI to analyze content for 'money left on the table' through affiliate optimization and automated monetization triggers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
